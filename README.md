@@ -7,14 +7,3 @@ See the <a href=https://github.com/maziarraissi/PINNs>following repo</a> for fir
   <li>Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. <a href=https://arxiv.org/abs/1711.10561>Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations</a> arXiv preprint arXiv:1711.10561 (2017).</li>
   <li>Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. <a href=https://arxiv.org/abs/1711.10566>Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations</a> arXiv preprint arXiv:1711.10566 (2017).</li>
 </ul> 
-
-    
-
-    
-
-    
-
-
-
-
-
