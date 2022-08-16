@@ -1,4 +1,4 @@
-# Physics-informed-neural-networks
+# Physics Informed Neural Networks (PINNs)
 Collection of examples of Physics Informed Neural Networks (PINN), for solving Partial Differential Equations (PDEs) via deep neural networks. 
 
 See the <a href=https://github.com/maziarraissi/PINNs>following repo</a> for firther details, as well as these references:
