@@ -2,9 +2,9 @@
 Collection of examples of Physics Informed Neural Networks (PINN), for solving Partial Differential Equations (PDEs) via deep neural networks. All the examples are implemented using TensorFlow.
 
 ## Examples
-1. ...
-2. ...
-3. ...
+1. Laplace 2D
+2. Poisson 2D
+3. Axi-symmetric magnetostatic problem 
 
 ## References
 See the <a href=https://github.com/maziarraissi/PINNs>following repo</a> for firther details, as well as these references:
