@@ -7,7 +7,7 @@ Collection of examples of Physics Informed Neural Networks (PINN), for solving P
 3. `E3_main_PINN_Poisson.ipynb`
 4. `E4_PINN_magnetostatic_square_coil.ipynb`
 5. `E5_main_PINN_magnetostatic_2coils.ipynb`
-
+ 
 ## References
 See the <a href=https://github.com/maziarraissi/PINNs>following repo for further details, as well as these references:
 <ul>
