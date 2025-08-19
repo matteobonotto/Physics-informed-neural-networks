@@ -1,14 +1,12 @@
 # Physics Informed Neural Networks (PINNs)
 Collection of examples of Physics Informed Neural Networks (PINN), for solving Partial Differential Equations (PDEs) via deep neural networks. All the examples are implemented using TensorFlow.
 
-## Setting up the environment
-
 ## Examples
-1. `E1_PINN_Laplace.ipynb`
-2. `E2_main_PINN_Laplace_subclassing.ipynb`
-3. `E3_main_PINN_Poisson.ipynb`
-4. `E4_PINN_magnetostatic_square_coil.ipynb`
-5. `E5_main_PINN_magnetostatic_2coils.ipynb`
+1. `E1_PINN_Laplace.ipynb`: Solution of 2d Laplace equation in cartesian coordinates.
+2. `E2_main_PINN_Laplace_subclassing.ipynb`: same test case as the previous one without using `tf.keras.Sequential`.
+3. `E3_main_PINN_Poisson.ipynb`: solution of 2d Poisson equation in cartesian coordinates.
+4. `E4_PINN_magnetostatic_square_coil.ipynb`: solution of the magnetostatic problem in axi-symmetric geometry (single coil of square cross section).
+5. `E5_main_PINN_magnetostatic_2coils.ipynb`: solution of the magnetostatic problem in axi-symmetric geometry (2 coils of circular cross section).
  
 ## References
 See the <a href=https://github.com/maziarraissi/PINNs>following repo for further details, as well as these references:
